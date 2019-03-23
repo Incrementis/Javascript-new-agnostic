@@ -18,7 +18,7 @@ function noStrict()
 	
 	
 	var infoArea 	= document.getElementById("message");
-	var img 		= document.getElementById("picture");
+	var img 	= document.getElementById("picture");
 	
 	//ATTENTION: No keyword new
 	var Instance	= Class();
@@ -50,7 +50,7 @@ function withStrict()
 	
 	
 	var infoArea 	= document.getElementById("message");
-	var img 		= document.getElementById("picture");
+	var img 	= document.getElementById("picture");
 	
 	//Setting picture
 	img.src= "Strict.jpg";
@@ -90,7 +90,7 @@ function alternative()
 	
 	
 	var infoArea 	= document.getElementById("message");
-	var img 		= document.getElementById("picture");
+	var img 	= document.getElementById("picture");
 	
 	
 	//ATTENTION: No keyword new
